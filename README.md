@@ -47,9 +47,9 @@ NLP model to classify match events from ball-by-ball commentary
 → Bi-LSTM + LightGBM | 86% Accuracy | No keyword reliance  
 **Paper**: [View on Research Square](https://doi.org/10.21203/rs.3.rs-5712957/v1)
 
-### 📊 Strategic Impact Recommender (Sep 2023 – May 2024)
+### 📊 IPL Situational Strategic Impact Recommender System (Sep 2023 – May 2024)
 Predicted match outcomes using 8 years of IPL data  
-→ Created SRF (Success Ratio Factor) | Live-match prediction success  
+→ Invented SRF (Success Ratio Factor) | Live-match prediction success  
 **Tech**: Flask, MongoDB Atlas, Node.js, Gradient Boosting
 
 ### 🌾 FarmEasy (Mar 2024)
