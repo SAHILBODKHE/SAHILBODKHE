@@ -49,13 +49,17 @@ I've shipped **20+ end-to-end projects** spanning LLM agents, web apps, and bloc
 
 
 ---
+
 ## ⚡ Experience
-##💡 GenAI Developer — Stealth Mode Startup (Jul 2025 – Present | UAE · Remote)
-Contributing to a stealth mode UAE-based startup building cutting-edge AI solutions.
-✅ Developed an innovative backend-less architecture for automated data retrieval via natural language queries.
-✅ Designed multi-turn LLM + RAG conversational flows to enhance user intent recognition and map to correct data source operations.
-✅ Integrated human-in-the-loop workflows for precision in AI-assisted decisions.
-Tech: OpenAI, graphrag, FastAPI, Docker, PostgreSQL, HuggingFace 
+
+### 💡 GenAI Developer — Stealth Mode Startup *(Jul 2025 – Present | UAE · Remote)*
+
+> Contributing to a stealth mode UAE-based startup building **cutting-edge AI solutions**.
+
+* Developed an innovative **backend-less architecture** for automated data retrieval via natural language queries.
+* Orchestrated **multi-turn LLM + RAG** conversational flows to enhance user intent recognition and map to correct data source operations.
+* Designed **human-in-the-loop workflows** for precision in AI-assisted decisions.
+  **Tech**: OpenAI, Microsoft graphrag,LangChain, ChromaDB, FastAPI, Docker, PostgreSQL, HuggingFace
 
 
 
@@ -129,3 +133,7 @@ Tech: OpenAI, graphrag, FastAPI, Docker, PostgreSQL, HuggingFace
 ---
 
 🧭 *Let’s build intelligent systems together — from zero-trust LLM agents to mission-critical backends. Always open for collabs, hacks, and frontier experiments.*
+
+
+
+
