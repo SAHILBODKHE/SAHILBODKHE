@@ -60,7 +60,7 @@ I've shipped **20+ end-to-end projects** spanning LLM agents, web apps, and bloc
 * Orchestrated **multi-turn LLM + RAG** conversational flows to enhance user intent recognition and map to correct data source operations.
 * Designed **human-in-the-loop workflows** for precision in AI-assisted decisions.
 
-**Tech**: OpenAI, Microsoft graphrag,LangChain, ChromaDB, FastAPI, Docker, PostgreSQL, HuggingFace
+**Tech**: OpenAI, Microsoft Graphrag, LangChain, ChromaDB, FastAPI, Docker, PostgreSQL, HuggingFace
 
 
 
