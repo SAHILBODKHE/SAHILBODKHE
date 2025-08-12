@@ -10,9 +10,9 @@
 
 I'm a full-stack AI engineer and systems thinker with a deep passion for building **autonomous AI agents**, **LLM-driven tools**, and **production-grade backend systems**. I thrive at the intersection of:
 
-- ✳️ **Agent Architectures**: LangGraph, MCP, LangChain  
-- ✳️ **LLM Integration**: LLaMA 3.2, Ollama, HuggingFace, PEFT  
-- ✳️ **System Design**: Secure, auditable, modular backends (FastAPI, Flask, PostgreSQL)
+- ✳️ **Agent Architectures**: LangGraph, MCP, LangChain, Microsoft graphrag, chromadb   
+- ✳️ **LLM Integration**: OpenAI, Mistral,LLaMA 3.2, Ollama, HuggingFace, PEFT  
+- ✳️ **System Design**: Secure, auditable, modular backends (FastAPI, Flask, PostgreSQL,MongoDB)
 
 I've shipped **20+ end-to-end projects** spanning LLM agents, web apps, and blockchain systems. With a strong focus on **privacy**, **tool orchestration**, and **scalability**, I'm on a mission to push the boundaries of what's possible with autonomous agents.
 
@@ -40,13 +40,18 @@ I've shipped **20+ end-to-end projects** spanning LLM agents, web apps, and bloc
 **Languages**: Python, Java, JavaScript, Solidity  
 **Frameworks**: FastAPI, Flask, React.js, Node.js, Spring Boot  
 **ML & LLM**: YOLOv5/v8, LightGBM, Bi-LSTM, Transformers, HuggingFace, Optuna  
-**Databases**: PostgreSQL, MongoDB, ChromaDB, FAISS  
-**Agent Tools**: LangGraph, LangChain, MCP, Ollama, LLaMA 3.2, LangSmith  
+**Databases**: PostgreSQL, MongoDB, ChromaDB, FAISS, Microsoft Graphrag  
+**Agent Tools**: OpenAI,Mistral,LangGraph, LangChain, MCP, Ollama, LLaMA 3.2, LangSmith  
 **Infra & MLOps**: Docker, AWS EC2/S3, MLFlow, Prometheus, Dagshub, DVC  
 **DevOps**: GitHub Actions, JWT, REST APIs, Postman  
 **Web3**: Solidity, Hardhat, Smart Contracts, EJS
 
+
+
 ---
+## ⚡ Experience
+
+
 
 ## ⚡ Featured Projects
 
